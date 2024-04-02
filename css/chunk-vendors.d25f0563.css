@@ -10421,7 +10421,7 @@
 }
 
 .el-card__body,.el-main {
-    padding: 20px
+    padding: 35px
 }
 
 .el-rate {
@@ -12986,7 +12986,7 @@
     box-sizing: border-box;
     min-width: 0;
     position: absolute;
-    top: 90%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
